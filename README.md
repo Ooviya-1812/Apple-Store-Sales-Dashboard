@@ -1,4 +1,4 @@
-# 🍎 Apple Sales & Customer Insights Dashboard | Power BI
+# Apple Sales & Customer Insights Dashboard | Power BI
 
 ## 📌 Overview
 An interactive Power BI dashboard built to analyze Apple sales performance and customer insights. The project provides dynamic visualizations, KPIs, and filters to support data-driven business decisions.
